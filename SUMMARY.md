@@ -1,17 +1,19 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [ROBOT API 开发文档](README.md)
 
-## Getting Started
+## 基本信息 Basic Info <a href="#basic-info" id="basic-info"></a>
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [请求地址  HTTP Host](basic-info/qing-qiu-di-zhi-http-host.md)
+* [请求鉴权  HTTP Authorization](basic-info/qing-qiu-jian-quan-http-authorization.md)
+* [请求限速  HTTP Rate Limit](basic-info/qing-qiu-xian-su-http-rate-limit.md)
+* [请求验证码 HTTP Request Captcha](basic-info/qing-qiu-yan-zheng-ma-http-request-captcha.md)
 
-## Basics
+## HTTP API V1
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Index](http-api-v1/index.md)
+* [Admin](http-api-v1/admin.md)
+* [Bfv](http-api-v1/bfv.md)
+* [Player](http-api-v1/player.md)
+* [Server](http-api-v1/server.md)
+* [User](http-api-v1/user.md)
