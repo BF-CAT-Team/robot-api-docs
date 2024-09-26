@@ -4,10 +4,10 @@
 
 ## 基本信息 Basic Info <a href="#basic-info" id="basic-info"></a>
 
-* [请求地址  HTTP Host](basic-info/http-host.md)
-* [请求鉴权  HTTP Authorization](basic-info/http-authorization.md)
-* [请求限速  HTTP Rate Limit](basic-info/http-ratelimit.md)
-* [请求验证码 HTTP Request Captcha](basic-info/http-req-captcha.md)
+* [请求地址  HTTP Host](basic-info/qing-qiu-di-zhi-http-host.md)
+* [请求鉴权  HTTP Authorization](basic-info/qing-qiu-jian-quan-http-authorization.md)
+* [请求限速  HTTP Rate Limit](basic-info/qing-qiu-xian-su-http-rate-limit.md)
+* [请求验证码 HTTP Request Captcha](basic-info/qing-qiu-yan-zheng-ma-http-request-captcha.md)
 
 ***
 
